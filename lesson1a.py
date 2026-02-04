@@ -23,4 +23,3 @@ total_marks=85
 print(total_marks)
 
 # variable names are not supposed to be keyboard/ reerved characters in python
-# 
