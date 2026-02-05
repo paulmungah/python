@@ -14,7 +14,7 @@ print("The SI is:", simpleinterest)
 
 weight= 78
 height= 1.75
-BMI= weight*height
+BMI=(weight)/(height**2)
 print("The BMI is :",BMI)
 
 length=48
